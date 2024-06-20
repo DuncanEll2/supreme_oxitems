@@ -2,7 +2,7 @@ RegisterServerEvent("supreme_oxitem:addItem")
 AddEventHandler(
     "supreme_oxitem:addItem",
     function(name, label2, weight, stack, close, allowarmed, description)
-        print(name, label2, weight, stack, close, allowarmed, description)
+        
         if IsPlayerAceAllowed(source, "oxitems") then
             local src = source
             local path = GetResourcePath("ox_inventory")
