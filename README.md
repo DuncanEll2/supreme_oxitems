@@ -2,7 +2,7 @@
 
 Supreme oxitems is a simple item creator for in game use.
 
-<img src="https://forum.cfx.re/uploads/default/original/4X/6/8/c/68cd34ce003360d74d73551f9be7215f5b6c7a31.jpeg" width="800">
+<img src="https://forum-cfx-re.akamaized.net/optimized/4X/d/6/7/d67ca0560f7192c05fc4e790b0125b58951d6744_2_252x500.png" width="800">
 
 
 
