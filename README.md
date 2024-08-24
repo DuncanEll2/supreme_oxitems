@@ -1,15 +1,53 @@
-Here today i release a fairly simple dev script that creates items for ox_inventory and saves it to a config lua file, i have yet to integrate it to the items file within the inventory.
+# Supreme OXITEMS 🏋️
 
-This is a dev tool and will eventually be integrated with the items.lua file within ox inventory so it saves automatically.
+Supreme oxitems is a simple item creator for in game use.
 
-It is command based ( commnad to use is - oxdevtools ) It utilizes the ox lib menu. This can be used on either ESX or QB It is nothing fancy and might not be of use to anyone but thought i would share it and hopefully i can integrate it to the items.lua within the next couple of days.
+<img src="https://forum.cfx.re/uploads/default/original/4X/6/8/c/68cd34ce003360d74d73551f9be7215f5b6c7a31.jpeg" width="800">
 
-You can use either OX_LIB or UI. You can set this in the config file
 
-Dependencies: ox_lib
 
-https://discord.gg/kJ94NcUh7B
+# **Join Our Official Discord 💬**
 
-add to server file
+<a href="https://discord.gg/8kxNYQkEMt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sw3NwDq6C8" height="120" width="180" /></a>
+
+- Report Issues ⚠️
+
+- Report Bugs 🪲
+
+- Contribute Code 🛠️
+
+- Contribute Translations 🌎
+
+- Chat With Our Amazing Community 🗨️
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Available in 🌏
+
+* English 🇬🇧
+
+If you wish to add any translations them just DM on discord.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Features 🛠️
+
+- Standalone ( works on any framework using ox inventory )
+- Item creator with image url
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Commands
+
+```lua
+/oxdevtools
+```
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# ace permissions 🎛️
 
 add_ace identifier.license:################# oxitems allow
+
+Please add this to your server.cfg with your license or ids.
+-------------------------------------------------------------------------------
