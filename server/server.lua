@@ -46,6 +46,7 @@ AddEventHandler(
                                                                 "allowArmed = '" ..
                                                                     allowarmed ..
                                                                         "',\n    " ..
+                                                                        "client = { image ='" .. name .. ".png'},\n" ..
                                                                             "description = '" .. description .. "',\n"
             )
             file:write("},\n}")

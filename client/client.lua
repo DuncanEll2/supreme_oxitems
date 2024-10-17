@@ -72,7 +72,7 @@ AddEventHandler(
             ---
         else
             TriggerServerEvent("supreme_oxitem:addItem", data[1], data[2], data[3], data[4], data[5], data[6], data[7])
-            if not data[7] == nil then
+            if data[8] ~= nil then
                 TriggerServerEvent("supreme_oxitem:addImage", data[1], data[8])
             end
         end
